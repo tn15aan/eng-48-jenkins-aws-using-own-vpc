@@ -1,4 +1,4 @@
-Hello Dev!!!!!!!!!!!!!!!!!!!!
+Hello Dev :D
 ## Creating an Instance
 1.	Ubuntu Server 18.04 LTS (HVM), SSD Volume Type
 2.	T2 micro
